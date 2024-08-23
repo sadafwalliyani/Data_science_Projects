@@ -1,0 +1,4 @@
+Data Cleaning Steps:
+1. Loaded transaction data and product prices from multiple sheets.
+2. Merged datasets on product_id.
+3. Calculated Revenue, Cost, and Profit/Loss for each transaction.

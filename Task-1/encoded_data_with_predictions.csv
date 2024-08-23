@@ -1,0 +1,2 @@
+baths,bedrooms,Area Size,total_rooms,price_per_area_unit,location_encoded,city_encoded,province_name_encoded,property_type_encoded,Predicted Prices
+3,3,5.0,0,0,0,0,0,0,1855.7
