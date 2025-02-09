@@ -1,0 +1,34 @@
+
+Destination: New York
+Weather: Rainy
+Total Cost: $3200.00
+Packing List: Umbrella, Raincoat, Waterproof Shoes
+
+Destination: Sydney
+Weather: Cold
+Total Cost: $2780.00
+Packing List: Jacket, Gloves, Warm Clothes
+Destination: Dubai
+Weather: Rainy
+Total Cost: $500.00
+Packing List: Umbrella, Raincoat, Waterproof Shoes
+Destination: Paris
+Weather: Cold
+Total Cost: $1500.42
+Packing List: Jacket, Gloves, Warm Clothes
+Destination: Paris
+Weather: Rainy
+Total Cost: $500.08
+Packing List: Umbrella, Raincoat, Waterproof Shoes
+Destination: Tokyo
+Weather: Sunny
+Total Cost: $500.07
+Packing List: Sunglasses, Sunscreen, Hat
+Destination: Paris
+Weather: Sunny
+Total Cost: $500.07
+Packing List: Sunglasses, Sunscreen, Hat
+Destination: Paris
+Weather: Sunny
+Total Cost: $500.00
+Packing List: Sunglasses, Sunscreen, Hat
